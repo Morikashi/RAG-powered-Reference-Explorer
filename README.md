@@ -66,7 +66,10 @@ Create a Pinecone index with the same name as `PINECONE_INDEX_NAME`. Set it up w
 #### Data Ingestion
 Place your PDFs in the pdf_data directory and run data_ingestion.py.
 Run the Application
-```chainlit run src/app.py```
+
+```
+chainlit run src/app.py
+```
 
 
 ### Valuable Resources:
